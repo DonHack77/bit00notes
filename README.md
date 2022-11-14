@@ -3,4 +3,4 @@
 ## Aca encontraremos la descripción del repositorio
 
 ### Autor: 
-[Donovan Cano (https://github.com/DonHack77) ]
+[Donovan Cano (https://www.linkedin.com/in/donovan-stif-cano-gonzalez-b75322257/) ]

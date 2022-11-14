@@ -1,2 +1,6 @@
-# bit00notes
-Este en un repositorio para escribir notas  
+#bit00notes
+
+##aca encontraremos la descripción del repositorio
+
+###Autor: 
+[Donovan Cano (https://github.com/DonHack77) ]
